@@ -22,4 +22,3 @@ I hope to apply my knowledge to help businesses make effective strategic decisio
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuongvyy2011&show_icons=true&bg_color=00000000)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuongvyy2011&repo=Excel-Project)](https://github.com/Tuongvyy2011/Excel-Project)
