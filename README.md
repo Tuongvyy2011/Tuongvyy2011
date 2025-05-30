@@ -1,4 +1,5 @@
-## Hi there 👋
+
+## Hiii there 👋
 
 <!--
 **Tuongvyy2011/Tuongvyy2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hii, I am a student majoring in  Technology and Innovation. I aspire to become a Data Analyst and here is my entire learning journey to become a Data Analyst.
+
+My name is Tuong Vy, I am a student majoring in Technology and Innovation. I aspire to become a Data Analyst and apply my knowledge and understanding to extract value from data. Here is my entire learning journey to become a true data analyst.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuongvyy2011&show_icons=true&bg_color=00000000)
 
