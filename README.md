@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hii, I am a student majoring in  Technology and Innovation. I aspire to become a Data Analyst and here is my entire learning journey to become a Data Analyst.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuongvyy2011&show_icons=true&bg_color=00000000)
 
